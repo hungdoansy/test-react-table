@@ -1,0 +1,31 @@
+const rawData = [
+  ["new card", true, 5],
+  ["credit card", true, 20],
+  ["credit card", false, 15],
+  ["credit card", true, 10],
+  ["credit card", true, 0],
+  ["credit card", true, 1],
+  ["credit card", false, 3],
+  ["credit card", true, 5],
+  ["credit card", true, 2],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1],
+  ["credit card", false, 1]
+];
+
+export default rawData;
